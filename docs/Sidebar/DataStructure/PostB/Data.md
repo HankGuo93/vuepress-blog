@@ -1,2 +1,0 @@
-# Title B
-### SideTitle B

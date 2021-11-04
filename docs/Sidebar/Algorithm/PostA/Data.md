@@ -1,2 +1,0 @@
-# TitleA
-### SideTitleA
